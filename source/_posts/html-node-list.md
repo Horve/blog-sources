@@ -76,10 +76,3 @@ DOM中的 `NodeList` 和 `NamedNodeMap` 对象是动态的(live);
 
 
 原文链接: [Why is getElementsByTagName() faster than querySelectorAll()?](http://www.nczonline.net/blog/2010/09/28/why-is-getelementsbytagname-faster-that-queryselectorall/)
-
-原文日期: 2010-09-28
-
-翻译日期: 2014-11-13
-
-
-标签: [getElementsByTagName](http://www.nczonline.net/blog/tag/getelementsbytagname/), [JavaScript](http://www.nczonline.net/blog/tag/javascript/), [NodeList](http://www.nczonline.net/blog/tag/nodelist/), [querySelectorAll](http://www.nczonline.net/blog/tag/queryselectorall/)
