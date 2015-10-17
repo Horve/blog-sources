@@ -161,7 +161,7 @@ function IEContentLoaded (w, fn) {
 if ( document.addEventListener ) {
     document.addEventListener( "DOMContentLoaded", completed, false );
 }
-``` 
+```
 
 ## 五、实例
 
