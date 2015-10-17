@@ -1,5 +1,9 @@
 title: DOM中的动态NodeList与静态NodeList
 date: 2015-09-07 14:50:36
+categories:
+- 转载
+- html
+- html-node
 tags:
 - Static Nodelist
 - Live Nodelist

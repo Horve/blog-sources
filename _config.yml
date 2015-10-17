@@ -8,7 +8,7 @@ subtitle:
 description:
 author: Horve
 subtitle: 栽栽花，种种草，每天进来逛一逛
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -17,6 +17,7 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+avatar: /images/headpic.jpg
 
 # Directory
 source_dir: source
@@ -27,6 +28,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -64,7 +66,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

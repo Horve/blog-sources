@@ -1,5 +1,8 @@
 title: HAR文件详细解析
 date: 2015-09-08 16:28:17
+categories:
+- 原创
+- har
 tags:
 - har
 - phantomjs

@@ -1,9 +1,15 @@
 title: phantomjs 使用介绍
 date: 2015-09-06 16:01:54
+categories:
+- 转载
+- phantomjs
+- 前端性能
 tags: 
 - phantomjs
 - 转载
 ---
+
+![phantomjs](/images/phantomjs/phantomjs-1.jpg)
 
 ## 概述
 

@@ -1,5 +1,10 @@
 title: 使用性能API快速分析web前端性能
 date: 2015-09-14 20:15:31
+categories:
+- 原创
+- 前端性能
+- performanceAPI
+- navigation
 tags:
 - 原创
 - performance

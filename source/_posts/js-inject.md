@@ -1,6 +1,9 @@
 title: chrome浏览器拓展——js脚本拦截及注入
 date: 2015-09-01 11:00:00 
-
+categories:
+- 原创
+- chrome-extension
+- markdown
 tags: 
 - chrome
 - chrome-extension
