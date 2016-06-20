@@ -66,7 +66,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: nexts
+theme: next
+
+duoshuo_shortname: zhorve
+baidu_analytics: db36653c20c675711f8d9d3cfebbaccf
+
+# add post views
+#leancloud_visitors:
+#  enable: true
+#  app_id: 08jRMb3Rem4DFvWRI3DBHWDv-gzGzoHsz
+#  app_key: 9XYshfPMCqFGHtwCLcumkvWK
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

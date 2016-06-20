@@ -1,4 +1,4 @@
-title: 谈谈DOMContentLoaded：Javascript中的domReady引入机制
+title: Javascript中的domReady引入机制
 date: 2015-10-17 16:01:54
 categories:
 - 原创
